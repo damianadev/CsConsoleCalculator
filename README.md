@@ -1,3 +1,3 @@
 # CsConsoleCalculator
 
-## Basic console calculator with four operation mrethods, written in C#
+## Basic console calculator with four operation methods, written in C#
